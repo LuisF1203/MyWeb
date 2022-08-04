@@ -72,7 +72,6 @@ function Home(){
                                 textAlign:"center"
                             }}>INSTITUTO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE OCCIDENTE</a>
                             <ul>
-                                <p>Hobbies:</p>
                                 <li>Studying Bachelor in Computer Systems Engineering</li>
                                 <li>Expected graduation date: December 2026.</li>
                                 <li>Address: Periférico Sur Manuel Gómez Morín, 8585,ITESO, 45604 San Pedro Tlaquepaque, Jalisco, Mexico.</li>
